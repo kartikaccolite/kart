@@ -44,6 +44,7 @@ public class A implements A_interface {
 		choice = input.nextInt();
 	//int choice=1;
 		//	 choice=1;
+		//sopln
 		switch(choice) {
 		case 1:
 			System.out.println(obj.add(1, 2));
